@@ -14,7 +14,7 @@ const Hero = () => {
           height={50}
           className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"
         />
-        <h1 className="bold-52 lg:bold-88">Jamii Ya Jadeite </h1>
+        <h1 className="bold-52 lg:bold-88">Jamii Ya Jadeite Foundation</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">Welcome to our Montessori System Daycare! At our daycare, we go above and beyond to provide a nurturing environment where children can thrive and grow. We understand the challenges that parents face in balancing work and family life, and our goal is to make your life easier by offering a comprehensive range of services that cater to the needs of both children and parents.
 </p>
 
@@ -39,7 +39,7 @@ const Hero = () => {
         <div className="flex flex-col w-full gap-3 sm:flex-row">
           <Button 
             type="button" 
-            title="Download App" 
+            title="Location" 
             variant="btn_green" 
           />
           <Button 
@@ -69,7 +69,7 @@ const Hero = () => {
             </div>
             <div className="flex flex-col">
               <p className="regular-16 block text-gray-20">Elevation</p>
-              <p className="bold-20 text-white">2.040 km</p>
+              <p className="bold-20 text-white">13.040 km</p>
             </div>
           </div>
         </div>
