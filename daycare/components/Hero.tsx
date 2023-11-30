@@ -35,20 +35,21 @@ const Hero = () => {
             <span className="regular-16 lg:regular-20 ml-1 text-orange-50">Excellent Reviews</span>
           </p>
         </div>
+        
 
         <div className="flex flex-col w-full gap-3 sm:flex-row">
-        <Button 
-             type="button" 
-             title="Location" 
-             variant="btn_green" 
-             onclick="window.location.href='https://www.google.com/maps/place/Jadeite+day+care+center+Ruaka/@-1.2054162,36.7790913,17z/data=!3m1!4b1!4m6!3m5!1s0x182f23fc30f5f451:0x3cb08d183ab5d785!8m2!3d-1.2054216!4d36.7816662!16s%2Fg%2F11v0p8ktw2?entry=ttu'"
-            />
 
-          <Button 
-            type="button" 
-            title="How we work?" 
+          <Button
+            type="button"
+            title="Location"
+            variant="btn_greener"
+          />
+
+          <Button
+            type="button"
+            title="How we work?"
             icon="/play.svg"
-            variant="btn_white_text" 
+            variant="btn_white_text"
           />
         </div>
       </div>
