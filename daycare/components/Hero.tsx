@@ -42,7 +42,8 @@ const Hero = () => {
           <Button
             type="button"
             title="Location"
-            variant="btn_greener"
+            variant="btn_green"
+            icon="/loca.svg"
           />
 
           <Button
