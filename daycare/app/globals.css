@@ -73,7 +73,7 @@ body {
   }
 
   .regular-24 {
-    @apply text-[24px] font-[400];
+    @apply text-[24px] font-[400] ;
   }
 
   .regular-20 {
@@ -81,7 +81,7 @@ body {
   }
 
   .regular-18 {
-    @apply text-[18px] font-[400];
+    @apply text-[18px] font-[600] ;
   }
 
   .regular-16 {
