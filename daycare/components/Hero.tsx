@@ -32,7 +32,7 @@ const Hero = () => {
           </div>
 
           <p className="bold-16 lg:bold-20 text-blue-70">
-            <span className="regular-16 lg:regular-20 ml-1 text-orange-50">Excellent Reviews</span>
+            <span className="regular-16 lg:regular-20 ml-1 text-black">Excellent Reviews</span>
           </p>
         </div>
         
