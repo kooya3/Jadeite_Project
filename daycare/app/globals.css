@@ -24,10 +24,6 @@ body {
   }
 
   .btn_green {
-    @apply border-green-50 bg-green-50 px-8 py-5 text-white
-  }
-
-  .btn_greener {
     @apply border-green-70 bg-green-70 px-8 py-5 text-white
   }
 
