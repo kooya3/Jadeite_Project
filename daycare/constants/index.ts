@@ -21,21 +21,21 @@ export const FEATURES = [
   {
     title: 'Girls Mentorship',
     icon: '/map.svg',
-    variant: 'green',
+    variant: 'orange',
     description:
       '',
   },
   {
     title: 'Youth Mentorship Program',
     icon: '/calendar.svg',
-    variant: 'green',
+    variant: 'orange',
     description:
       "",
   },
   {
     title: 'House Help Empowerment',
     icon: '/tech.svg',
-    variant: 'green',
+    variant: 'orange',
     description:
       '',
   },
