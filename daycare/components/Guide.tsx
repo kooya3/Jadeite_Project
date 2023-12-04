@@ -10,7 +10,7 @@ const Guide = () => {
           We are here for you
         </p>
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
-          <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]">Guide You to Easy Path</h2>
+          <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]">Guide to Your Journey</h2>
           <p className="regular-16 text-gray-30 xl:max-w-[520px]">At Jamii Ya Jadeite Foundation, we are here to guide and support you on your journey. Whether you are a parent seeking quality care for your child, a young girl aspiring for mentorship, or an individual looking to enhance your skills, we are committed to helping you find your path and reach your full potential.</p>
         </div>
       </div>
@@ -19,8 +19,8 @@ const Guide = () => {
         <Image 
           src="/boat.png"
           alt="boat"
-          width={1440}
-          height={580}
+          width={1300}
+          height={250}
           className="w-full object-cover object-center 2xl:rounded-5xl"
         />
 
