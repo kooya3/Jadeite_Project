@@ -15,7 +15,7 @@ const Hero = () => {
           className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"
         />
         <h1 className="bold-52 lg:bold-88"><span className="text-green-50">Jamii</span> Ya <span className="text-yellow-400">Jadeite</span> <span className="text-orange-50">Foundation</span></h1>
-        <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">Welcome to our Montessori System Daycare! At our daycare, we go above and beyond to provide a nurturing environment where children can thrive and grow. We understand the challenges that parents face in balancing work and family life, and our goal is to make your life easier by offering a comprehensive range of services that cater to the needs of both children and parents.
+        <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">Welcome to Jamii ya Jadeite Foundation, where we are committed to nurturing and empowering our community through a range of impactful projects, including our quality day care program. Our foundation serves as a beacon of support, providing a nurturing environment where children can thrive and families can find the assistance they need. With a focus on quality care and holistic development, we strive to make a positive difference in the lives of those we serve
 </p>
 
         <div className="my-11 flex flex-wrap gap-5">

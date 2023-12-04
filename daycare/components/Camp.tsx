@@ -52,26 +52,26 @@ const Camp = () => {
     <section className="2xl:max-container relative flex flex-col py-10 lg:mb-10 lg:py-20 xl:mb-20">
       <div className="hide-scrollbar flex h-[340px] w-full items-start justify-start gap-8 overflow-x-auto lg:h-[400px] xl:h-[640px]">
         <CampSite 
-          backgroundImage="bg-bg-img-1"
-          title="Jadeite Foundation Daycare"
+          backgroundImage="bg-bg-img-4"
+          title="Jamii Ya Jadeite Foundation Daycare"
           subtitle="Kiambu, Ruaka"
           peopleJoined="50+ Joined"
         />
         <CampSite 
           backgroundImage="bg-bg-img-2"
-          title="Jadeite Foundation Girls Mentorship"
+          title="Jamii Ya Jadeite Foundation Girls Mentorship"
           subtitle="Somewhere in the Wilderness"
           peopleJoined="50+ Joined"
         />
         <CampSite 
-          backgroundImage="bg-bg-img-2"
-          title="Jadeite Foundation Girls Mentorship"
-          subtitle="Somewhere in the Wilderness"
+          backgroundImage="bg-bg-img-3"
+          title="Jamii Ya Jadeite Foundation Youth Mentorship"
+          subtitle="Somewhere in Ruaka"
           peopleJoined="50+ Joined"
         />
         <CampSite 
-          backgroundImage="bg-bg-img-2"
-          title="Jadeite Foundation Girls Mentorship"
+          backgroundImage="bg-bg-img-1"
+          title="Jamii Ya Jadeite Foundation"
           subtitle="Somewhere in the Wilderness"
           peopleJoined="50+ Joined"
         />
