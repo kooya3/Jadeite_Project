@@ -50,17 +50,16 @@ export const FEATURES = [
 
 // FOOTER SECTION
 export const FOOTER_LINKS = [
-  {
+  /* {
     title: 'Learn More',
     links: [
-      'About Hilink',
+      'About Us',
       'Press Releases',
       'Environment',
-      'Jobs',
       'Privacy Policy',
       'Contact Us',
     ],
-  },
+  }, */
   {
     title: 'Our Supporters',
     links: ['Sogal', 'Superfoam', 'Tinytotos', 'Vessels Of Power Ministries', 'Overidge Wood Products', 'Ruaka Police Post'],
