@@ -19,8 +19,8 @@ const Guide = () => {
         <Image 
           src="/boat.png"
           alt="boat"
-          width={1300}
-          height={250}
+          width={1512}
+          height={576}
           className="w-full object-cover object-center 2xl:rounded-5xl"
         />
 

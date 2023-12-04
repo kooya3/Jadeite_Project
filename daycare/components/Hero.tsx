@@ -41,7 +41,7 @@ const Hero = () => {
 
           <Button
             type="button"
-            title="Location"
+            title="Kiambu, Ruaka"
             variant="btn_green"
             icon="/loca.svg"
           />
