@@ -53,13 +53,25 @@ const Camp = () => {
       <div className="hide-scrollbar flex h-[340px] w-full items-start justify-start gap-8 overflow-x-auto lg:h-[400px] xl:h-[640px]">
         <CampSite 
           backgroundImage="bg-bg-img-1"
-          title="Putuk Truno Camp"
-          subtitle="Prigen, Pasuruan"
+          title="Jadeite Foundation Daycare"
+          subtitle="Kiambu, Ruaka"
           peopleJoined="50+ Joined"
         />
         <CampSite 
           backgroundImage="bg-bg-img-2"
-          title="Mountain View Camp"
+          title="Jadeite Foundation Girls Mentorship"
+          subtitle="Somewhere in the Wilderness"
+          peopleJoined="50+ Joined"
+        />
+        <CampSite 
+          backgroundImage="bg-bg-img-2"
+          title="Jadeite Foundation Girls Mentorship"
+          subtitle="Somewhere in the Wilderness"
+          peopleJoined="50+ Joined"
+        />
+        <CampSite 
+          backgroundImage="bg-bg-img-2"
+          title="Jadeite Foundation Girls Mentorship"
           subtitle="Somewhere in the Wilderness"
           peopleJoined="50+ Joined"
         />
@@ -71,7 +83,7 @@ const Camp = () => {
             <strong><span className="text-yellow-50">Feeling Lost</span></strong> And Not Knowing The Way?
           </h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-            Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That's why we are here for those of you who want to start an adventure
+          we are dedicated to making a positive impact in the lives of children, families, and the community. Through our diverse programs and initiatives, we strive to create an inclusive and nurturing environment where everyone can flourish.
           </p>
           <Image 
             src="/quote.svg"

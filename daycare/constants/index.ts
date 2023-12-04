@@ -1,9 +1,10 @@
 // NAVIGATION
 export const NAV_LINKS = [
+  
   { href: '/', key: 'home', label: 'Home' },
-  { href: '/', key: 'how_hilink_work', label: 'How Hilink Work?' },
+  { href: '/', key: 'how_Jadeite_works', label: 'How We Work?' },
   { href: '/', key: 'services', label: 'Services' },
-  { href: '/', key: 'pricing ', label: 'Pricing ' },
+  { href: '/', key: 'supporters ', label: 'Supporters ' },
   { href: '/footer', key: 'contact_us', label: 'Contact Us' },
 ];
 
