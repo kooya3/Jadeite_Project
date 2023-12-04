@@ -63,7 +63,7 @@ export const FOOTER_LINKS = [
   },
   {
     title: 'Our Supporters',
-    links: ['Sogal', 'Superfoam', 'Tinytotos', 'Vessels Of Power Ministries', 'Overidge],
+    links: ['Sogal', 'Superfoam', 'Tinytotos', 'Vessels Of Power Ministries', 'Overidge Wood Products', 'Ruaka Police Post'],
   },
 ];
 
