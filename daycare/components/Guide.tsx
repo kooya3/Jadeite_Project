@@ -11,7 +11,7 @@ const Guide = () => {
         </p>
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
           <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]">Guide You to Easy Path</h2>
-          <p className="regular-16 text-gray-30 xl:max-w-[520px]">Only with the hilink application you will no longer get lost and get lost again, because we already support offline maps when there is no internet connection in the field. Invite your friends, relatives and friends to have fun in the wilderness through the valley and reach the top of the mountain</p>
+          <p className="regular-16 text-gray-30 xl:max-w-[520px]">At Jamii Ya Jadeite Foundation, we are here to guide and support you on your journey. Whether you are a parent seeking quality care for your child, a young girl aspiring for mentorship, or an individual looking to enhance your skills, we are committed to helping you find your path and reach your full potential.</p>
         </div>
       </div>
 
