@@ -62,8 +62,8 @@ export const FOOTER_LINKS = [
     ],
   },
   {
-    title: 'Our Community',
-    links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+    title: 'Our Supporters',
+    links: ['Sogal', 'Superfoam', 'Tinytotos', 'Vessels Of Power Ministries', 'Overidge],
   },
 ];
 
