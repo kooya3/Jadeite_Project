@@ -1,12 +1,13 @@
 // NAVIGATION
+// NAVIGATION
 export const NAV_LINKS = [
-  
   { href: '/', key: 'home', label: 'Home' },
-  { href: '/', key: 'how_Jadeite_works', label: 'How We Work?' },
+/*   { href: '/', key: 'how_Jadeite_works', label: 'How We Work?' },
   { href: '/', key: 'services', label: 'Services' },
-  { href: '/', key: 'supporters ', label: 'Supporters ' },
-  { href: '/footer', key: 'contact_us', label: 'Contact Us' },
+  { href: '/', key: 'supporters ', label: 'Supporters ' }, */
+  { href: 'mailto:jamiiyajadeite@gmail.com', key: 'contact_us', label: 'Contact Us' },
 ];
+
 
 // CAMP SECTION
 export const PEOPLE_URL = [
@@ -54,7 +55,6 @@ export const FOOTER_LINKS = [
     title: 'Learn More',
     links: [
       'About Us',
-      'Press Releases',
       'Environment',
       'Privacy Policy',
       'Contact Us',
