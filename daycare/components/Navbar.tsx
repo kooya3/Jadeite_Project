@@ -1,9 +1,13 @@
-import { NAV_LINKS } from "@/constants"
-import Image from "next/image"
-import Link from "next/link"
-import Button from "./Button"
+import { NAV_LINKS } from "@/constants";
+import Image from "next/image";
+import Link from "next/link";
+import Button from "./Button";
 
 const Navbar = () => {
+  const handleDonateClick = () => {
+    window.location.href = "https://www.mchanga.africa/fundraiser/85304";
+  };
+
   return (
     <nav className="flexBetween max-container padding-container relative z-30 py-5">
       <Link href="/">
@@ -20,10 +24,10 @@ const Navbar = () => {
 
       <div className="lg:flexCenter hidden">
         <Button 
-          type="button"
           title="Donate"
           icon="/user.svg"
           variant="btn_dark_green"
+          onClick={handleDonateClick} // Add the onClick handler
         />
       </div>
 
@@ -35,7 +39,7 @@ const Navbar = () => {
         className="inline-block cursor-pointer lg:hidden"
       />
     </nav>
-  )
+  );
 }
 
-export default Navbar
+export default Navbar;
