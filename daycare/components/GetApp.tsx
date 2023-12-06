@@ -8,10 +8,10 @@ const GetApp = () => {
       <div className="get-app">
         <div className="z-20 flex w-full flex-1 flex-col items-start justify-center gap-12">
         <a href="https://www.mchanga.africa/fundraiser/85304" target="_blank" rel="noopener noreferrer">
-        <h2 className="bold-40 lg:bold-40 xl:max-w-[320px] text-yellow-50">Donate Here</h2>
+        <h2 className="bold-40 lg:bold-40 xl:max-w-[320px] text-green-70">CLick Here To <span className='text-yellow-50'> Donate</span></h2>
         </a>
-          <h2 className="bold-32 lg:bold-40 xl:max-w-[320px]">PAYBILL: 891300</h2>
-          <h2 className="bold-32 lg:bold-40 xl:max-w-[320px]">ACCOUNT: 85304</h2>
+          <h2 className="bold-32 lg:bold-40 xl:max-w-[320px]">PAYBILL: 247247</h2>
+          <h2 className="bold-32 lg:bold-40 xl:max-w-[320px]">ACCOUNT: 0745847995</h2>
           <p className="regular-16 text-gray-10">DIAL: *483*57*85304#</p>
 
 
