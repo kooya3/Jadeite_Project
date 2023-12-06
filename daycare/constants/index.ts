@@ -27,7 +27,7 @@ export const FEATURES = [
       '',
   },
   {
-    title: 'Youth Mentorship Program',
+    title: 'Community Conversations',
     icon: '/calendar.svg',
     variant: 'green',
     description:
@@ -70,7 +70,7 @@ export const FOOTER_CONTACT_INFO = {
   title: 'Contact Us',
   links: [
     { label: 'Admin Officer', value: '+254 - 745 - 847 - 995 ' },
-    { label: 'Email Officer', value: 'jamiiyajadeite@gmail.com' },
+    { label: 'Email Office', value: 'jamiiyajadeite@gmail.com' },
   ],
 };
 
