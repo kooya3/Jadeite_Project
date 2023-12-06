@@ -46,12 +46,12 @@ const Hero = () => {
             icon="/loca.svg"
           /></a>
 
-          <Button
+           <a href='mailto:jamiiyajadeite@gmail.com' target="_blank" rel="noopener noreferrer"><Button
             type="button"
             title="How we work?"
             icon="/play.svg"
             variant="btn_white_text"
-          />
+          /></a>
         </div>
       </div>
 

@@ -6,7 +6,8 @@ import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
   title: 'Jamii_Jadeite',
-  description: 'A foundation based in Kiambu, Ruaka.',
+  description: 'A groundbreaking foundation based in Kiambu, Ruaka.',
+  
 }
 
 export default function RootLayout({
