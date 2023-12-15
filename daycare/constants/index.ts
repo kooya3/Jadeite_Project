@@ -24,34 +24,34 @@ export const FEATURES = [
     icon: '/map.svg',
     variant: 'green',
     description:
-      '',
+      'Empowering the future generation, our Girls Mentorship Program has guided 30 young girls on their journey towards personal and professional growth.',
   },
   {
     title: 'Community Conversations',
     icon: '/calendar.svg',
     variant: 'green',
     description:
-      "",
+      "Fostering dialogue and understanding, our Community Conversations initiative brings people together, promoting unity and cooperation within our community.",
   },
   {
     title: 'House Help Empowerment',
     icon: '/tech.svg',
     variant: 'green',
     description:
-      '',
+      'Investing in the empowerment of our community, the House Help Empowerment Program has provided valuable skills and support to 20 individuals, uplifting households and fostering self-sufficiency.',
   },
   {
     title: 'Clean Up Campaign',
     icon: '/location.svg',
     variant: 'green',
     description:
-      '',
+      'Taking action for a cleaner and healthier environment, our Clean Up Campaign has been a two-year commitment, contributing to the well-being of our community and the planet.',
   },
 ];
 
 // FOOTER SECTION
 export const FOOTER_LINKS = [
-  /* {
+  {
     title: 'Learn More',
     links: [
       'About Us',
@@ -59,10 +59,10 @@ export const FOOTER_LINKS = [
       'Privacy Policy',
       'Contact Us',
     ],
-  }, */
+  }, 
   {
     title: 'Our Supporters',
-    links: ['Sogal', 'Superfoam', 'Tinytotos', 'Vessels Of Power Ministries', 'Overidge Wood Products', 'Ruaka Police Post'],
+    links: ['Sogal', 'Superfoam', 'Tinytotos', 'Vessels Of Power Ministries', 'Overidge Wood Products', 'Ruaka Security Group'],
   },
 ];
 
