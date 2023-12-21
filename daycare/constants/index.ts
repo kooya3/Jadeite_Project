@@ -52,7 +52,7 @@ export const FEATURES = [
     icon: '/location.svg',
     variant: 'green',
     description:
-      'Taking action for a cleaner and healthier environment, our Clean Up Campaign has been a two-year commitment, contributing to the well-being of our community and the planet.',
+      'Our Agriculture project has been a three-year commitment, this project has promoted healthier living. Organically grown contributing to our own well-being.',
   },
 ];
 
