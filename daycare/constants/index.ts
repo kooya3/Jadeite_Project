@@ -49,7 +49,7 @@ export const FEATURES = [
   },
   {
     title: 'Agriculture',
-    icon: '/location.svg',
+    icon: '/play.svg',
     variant: 'green',
     description:
       'Our Agriculture project has been a three-year commitment, this project has promoted healthier living. Organically grown contributing to our own well-being.',
