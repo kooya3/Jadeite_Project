@@ -47,6 +47,13 @@ export const FEATURES = [
     description:
       'Taking action for a cleaner and healthier environment, our Clean Up Campaign has been a two-year commitment, contributing to the well-being of our community and the planet.',
   },
+  {
+    title: 'Agriculture',
+    icon: '/location.svg',
+    variant: 'green',
+    description:
+      'Taking action for a cleaner and healthier environment, our Clean Up Campaign has been a two-year commitment, contributing to the well-being of our community and the planet.',
+  },
 ];
 
 // FOOTER SECTION
