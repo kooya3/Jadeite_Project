@@ -1,4 +1,3 @@
-import { PEOPLE_URL } from "@/constants";
 import Image from "next/image";
 
 interface CampProps {
@@ -39,6 +38,48 @@ const Camp = () => {
   return (
     <section className="2xl:max-container relative flex flex-col py-10 lg:mb-10 lg:py-20 xl:mb-20">
       <div className="hide-scrollbar flex h-[340px] w-full items-start justify-start gap-8 overflow-x-auto lg:h-[400px] xl:h-[640px]">
+      <CampSite
+          backgroundImage="bg-bg-img-5"
+          title="Jamii Ya Jadeite Foundation Summer Camp"
+          subtitle="Kiambu, Ruaka"
+          peopleJoined="50+ Joined"
+        />
+        <CampSite
+          backgroundImage="bg-bg-img-6"
+          title="Jamii Ya Jadeite Foundation Leadership Retreat"
+          subtitle="Somewhere in the Wilderness"
+          peopleJoined="50+ Joined"
+        />
+        <CampSite
+          backgroundImage="bg-bg-img-7"
+          title="Jamii Ya Jadeite Foundation Environmental Conservation Program"
+          subtitle="Somewhere in Ruaka"
+          peopleJoined="50+ Joined"
+        />
+        <CampSite
+          backgroundImage="bg-bg-img-8"
+          title="Jamii Ya Jadeite Foundation Sports Camp"
+          subtitle="Somewhere in the Wilderness"
+          peopleJoined="50+ Joined"
+        />
+        <CampSite
+          backgroundImage="bg-bg-img-9"
+          title="Jamii Ya Jadeite Foundation Music Workshop"
+          subtitle="Kiambu, Ruaka"
+          peopleJoined="50+ Joined"
+        />
+        <CampSite
+          backgroundImage="bg-bg-img-10"
+          title="Jamii Ya Jadeite Foundation Coding Bootcamp"
+          subtitle="Somewhere in the Wilderness"
+          peopleJoined="50+ Joined"
+        />
+        <CampSite
+          backgroundImage="bg-bg-img-11"
+          title="Jamii Ya Jadeite Foundation Art Exhibition"
+          subtitle="Somewhere in Ruaka"
+          peopleJoined="50+ Joined"
+        />
         <CampSite 
           backgroundImage="bg-bg-img-4"
           title="Jamii Ya Jadeite Foundation Daycare"
@@ -63,6 +104,7 @@ const Camp = () => {
           subtitle="Somewhere in the Wilderness"
           peopleJoined="50+ Joined"
         />
+        
       </div>
 
       <div className="flexEnd mt-10 px-6 lg:-mt-60 lg:mr-6">
@@ -71,9 +113,9 @@ const Camp = () => {
             <strong><span className="text-yellow-50">Feeling Lost</span></strong> And Not Knowing The Way?
           </h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-          we are dedicated to making a positive impact in the lives of children, families, and the community. Through our diverse programs and initiatives, we strive to create an inclusive and nurturing environment where everyone can flourish.
+            we are dedicated to making a positive impact in the lives of children, families, and the community. Through our diverse programs and initiatives, we strive to create an inclusive and nurturing environment where everyone can flourish.
           </p>
-          <Image 
+          <Image
             src="/quote.svg"
             alt="camp-2"
             width={186}
