@@ -47,13 +47,13 @@ const Camp = () => {
         <CampSite
           backgroundImage="bg-bg-img-6"
           title="Jamii Ya Jadeite Foundation Daycare Playtime"
-          subtitle="Somewhere in the Wilderness"
+          subtitle="Kiambu, Ruaka"
           peopleJoined="50+ Joined"
         />
         <CampSite
           backgroundImage="bg-bg-img-7"
           title="Jamii Ya Jadeite Foundation Girl Mentorship Program"
-          subtitle="Somewhere in Ruaka"
+          subtitle="Kiambu, Ruaka"
           peopleJoined="50+ Joined"
         />
         <CampSite
@@ -70,13 +70,13 @@ const Camp = () => {
         />
         <CampSite
           backgroundImage="bg-bg-img-10"
-          title="Jamii Ya Jadeite Foundation Partners"
+          title="Jamii Ya Jadeite Foundation "
           subtitle="Somewhere in the Wilderness"
           peopleJoined="50+ Joined"
         />
         <CampSite
           backgroundImage="bg-bg-img-11"
-          title="Jamii Ya Jadeite Foundation Art Exhibition"
+          title="Jamii Ya Jadeite Foundation "
           subtitle="Somewhere in Ruaka"
           peopleJoined="50+ Joined"
         />
