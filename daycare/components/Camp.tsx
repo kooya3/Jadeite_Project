@@ -46,13 +46,13 @@ const Camp = () => {
         />
         <CampSite
           backgroundImage="bg-bg-img-6"
-          title="Jamii Ya Jadeite Foundation Leadership Retreat"
+          title="Jamii Ya Jadeite Foundation Daycare Playtime"
           subtitle="Somewhere in the Wilderness"
           peopleJoined="50+ Joined"
         />
         <CampSite
           backgroundImage="bg-bg-img-7"
-          title="Jamii Ya Jadeite Foundation Environmental Conservation Program"
+          title="Jamii Ya Jadeite Foundation Girl Mentorship Program"
           subtitle="Somewhere in Ruaka"
           peopleJoined="50+ Joined"
         />
@@ -64,13 +64,13 @@ const Camp = () => {
         />
         <CampSite
           backgroundImage="bg-bg-img-9"
-          title="Jamii Ya Jadeite Foundation Music Workshop"
+          title="Jamii Ya Jadeite Foundation Relief Donation"
           subtitle="Kiambu, Ruaka"
           peopleJoined="50+ Joined"
         />
         <CampSite
           backgroundImage="bg-bg-img-10"
-          title="Jamii Ya Jadeite Foundation Coding Bootcamp"
+          title="Jamii Ya Jadeite Foundation Partners"
           subtitle="Somewhere in the Wilderness"
           peopleJoined="50+ Joined"
         />
