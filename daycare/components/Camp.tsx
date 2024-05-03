@@ -59,7 +59,7 @@ const Camp = () => {
         <CampSite
           backgroundImage="bg-bg-img-8"
           title="Jamii Ya Jadeite Foundation Sports Camp"
-          subtitle="Somewhere in the Wilderness"
+          subtitle="Kiambu, Ruaka"
           peopleJoined="50+ Joined"
         />
         <CampSite
