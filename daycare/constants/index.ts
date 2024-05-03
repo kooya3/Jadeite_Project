@@ -87,6 +87,6 @@ export const SOCIALS = {
     { name: 'Facebook', icon: '/facebook.svg', url: 'https://www.facebook.com/p/Jadeite-day-care-center-Ruaka-100084847698997/' },
     { name: 'Instagram', icon: '/instagram.svg', url: 'https://www.instagram.com/jamiiyajadeitef?utm_source=qr&igsh=ZzVlZm1ha3lhOGpn' },
     { name: 'LinkedIn', icon: '/linkedin.svg', url: 'https://ke.linkedin.com/in/jamii-ya-jadeite-foundation-7746472a5' },
-    
+    { name: 'Twitter', icon: '/twitter.svg', url: 'https://twitter.com/jamiiyajadeite'},
   ],
 };
